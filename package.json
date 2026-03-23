@@ -57,14 +57,20 @@
   },
   "keywords": [
     "react",
-    "theme",
     "theming",
-    "css-variables",
+    "theme-engine",
     "design-tokens",
+    "css-variables",
+    "dynamic-theming",
     "dark-mode",
     "light-mode",
+    "design-system",
+    "tailwindcss",
+    "tailwind-plugin",
+    "multi-theme",
     "color-scheme",
-    "tailwindcss"
+    "theme-provider",
+    "custom-properties"
   ],
   "license": "MIT",
   "repository": {
