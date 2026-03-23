@@ -75,7 +75,10 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/Abilash-19/react-theme-engine"
+    "url": "https://github.com/Abilash-19/react-theming-engine"
   },
-  "author": "Abilash"
+  "author": "Abilash",
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com"
+  }
 }
