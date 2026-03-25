@@ -99,6 +99,6 @@
   "author": "Abilash",
   "homepage": "https://react-theme-engine.vercel.app",
   "publishConfig": {
-    "registry": "https://npm.pkg.github.com"
+    "registry": "https://registry.npmjs.org/"
   }
 }
