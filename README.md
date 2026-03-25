@@ -4,6 +4,19 @@ A production-ready, lightweight React theming engine that bridges the gap betwee
 
 [![npm version](https://img.shields.io/npm/v/react-theming-engine.svg?style=flat-square)](https://www.npmjs.com/package/react-theming-engine)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=flat-square)](https://opensource.org/licenses/MIT)
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-react--theme--engine.vercel.app-blueviolet?style=flat-square&logo=vercel)](https://react-theme-engine.vercel.app/)
+
+---
+
+## 🌐 Live Docs & Interactive Playground
+
+> **Try it live →** [**react-theme-engine.vercel.app**](https://react-theme-engine.vercel.app/)
+
+Explore the full interactive documentation, switch between all built-in theme presets, tweak primary colors in real time, and copy integration code — all in one place.
+
+[![react-theming-engine live docs and playground preview](https://raw.githubusercontent.com/Abilash-19/react-theme-engine/main/assets/playground-preview.png)](https://react-theme-engine.vercel.app/)
+
+---
 
 ```bash
 npm install react-theming-engine
